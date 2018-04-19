@@ -1,9 +1,9 @@
-About
+# About
 Simple set up for mongodb.
-Basic User model & @RepositoryRestResource to expost Rest API.
+Basic User model & @RepositoryRestResource to expose Rest API.
 
-Prerequisites
+# Prerequisites
 Running local MongoDB instance.
 
-Tests
+# Tests
 Basic repository tests.
